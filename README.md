@@ -37,7 +37,7 @@ Insight: Management, Technicians, and Retired individuals showed the highest int
 
 🚀 How to View the Interactive Charts
 Since GitHub sometimes limits the rendering of interactive Plotly charts, you can view the fully functional Recording  here:
-👉 [https://github.com/the-tanuja-ghongate/FUTURE_DS_03/blob/main/Marketing%20Funnel%20Recordering.mp4] 
+👉 [https://github.com/the-tanuja-ghongate/FUTURE_DS_03/blob/main/Marketing_Funnel_Analysis_Recording.mp4] 
 
 
 📂 Project Structure
